@@ -1,0 +1,12 @@
+Download and put these mods in this order:
+-E3 Demo Trailer - by GSNReboot (https://gamebanana.com/mods/502916)
+-E3 Fonts - by GSNReboot (https://gamebanana.com/mods/586918)
+-E3 Hint Ring Shader - by GSNReboot (Included in the repository)
+-E3 Textboxes - by GSNReboot (Included in the repository)
+-E3 HUD - by Nonami, Hyper, and Chara (https://gamebanana.com/mods/34311)
+-E3 Kingdom Valley - by GSNReboot (https://github.com/GSNReboot/SONIC-06-E3-Kingdom-Valley/releases)
+-E3 Result Music - by Bluwolf (https://gamebanana.com/sounds/45223)
+-E3 Sonic Tweaks - by GSNReboot (Included in the repository)
+-Accurate E3 Title Screen - by GSNReboot (https://gamebanana.com/wips/82941)
+-Unlocked Framerate - by GSNReboot (https://gamebanana.com/mods/587499)
+-E3 1UP - by GSNReboot (Included in the repository)
