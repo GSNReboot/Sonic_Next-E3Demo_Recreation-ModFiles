@@ -1,0 +1,12 @@
+--[Patch]--
+Title("E3 Sonic Master Patch")
+Author("GSNReboot")
+Platform("All Systems")
+Blurb("")
+Description("")
+
+--[Functions]--
+All Systems:
+BeginBlock("core\archives\player.arc")
+ParameterEdit("core\player\sonic_fast.lub"|"c_jump_speed_acc"|"5.5 * meter")
+EndBlock("core\archives\player.arc")
