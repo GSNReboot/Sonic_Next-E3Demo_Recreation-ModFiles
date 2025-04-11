@@ -212,13 +212,14 @@ function on_talk_setup(_ARG_0_, _ARG_1_)
   end
 end
 function on_goto(_ARG_0_, _ARG_1_)
-  if g_mission_information.mission_area == "csc/silver/b" then
-    g_mission_information.mission_terrain = "stage/csc/f/"
-    g_mission_information.mission_area = "csc/silver/f2"
-    g_mission_information.mission_set_default = "scripts/mission/0201/set_cscF2_silver.XML"
-    g_mission_information.mission_path_default = "scripts/mission/0201/path_cscF_silver"
-    g_mission_information.mission_is_battle = true
-    ChangeArea(_ARG_0_, g_mission_information.mission_area)
+  if g_mission_information.mission_area == "csc/silver/f" then
+    g_mission_information.mission_progress = 5
+    SetGlobalFlag(_ARG_0_, 4097, 1)
+    Result(_ARG_0_, "g_result_csc")
+  elseif g_mission_information.mission_area == "csc/silver/f1" then
+    g_mission_information.mission_progress = 5
+    SetGlobalFlag(_ARG_0_, 4097, 1)
+    Result(_ARG_0_, "g_result_csc")
   end
 end
 function on_event(_ARG_0_, _ARG_1_)
