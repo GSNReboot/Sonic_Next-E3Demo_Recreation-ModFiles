@@ -235,10 +235,6 @@ function on_event(_ARG_0_, _ARG_1_)
     ChangeArea(_ARG_0_, g_mission_information.mission_area)
     g_mission_information.mission_movie_start = ""
     g_mission_information.mission_startup = ""
-  elseif _ARG_1_ == "BtoF" then
-    on_goto(_ARG_0_, _ARG_1_)
-  elseif _ARG_1_ == "BtoF2" then
-    on_goto(_ARG_0_, _ARG_1_)
   elseif _ARG_1_ == "result_csc_end" then
     PlayEvent(_ARG_0_, "e0201", "e0201_end")
   elseif _ARG_1_ == "e0201_end" then
@@ -321,15 +317,13 @@ function on_talk_close(_ARG_0_, _ARG_1_)
     g_mission_information.mission_string = "msg_twn_silver02"
   end
 end
-function on_goal(_ARG_0_)
+function on_goal(a1)
   if g_mission_information.mission_area == "csc/silver/f1" then
-    g_mission_information.mission_progress = 5
-    SetGlobalFlag(_ARG_0_, 4097, 1)
-    Result(_ARG_0_, "g_result_csc")
+      SetGlobalFlag(a1, 4036, 1)
+      Result(a1, "g_result_csc")
   elseif g_mission_information.mission_area == "csc/silver/f" then
-    g_mission_information.mission_progress = 5
-    SetGlobalFlag(_ARG_0_, 4097, 1)
-    Result(_ARG_0_, "g_result_csc")
+    SetGlobalFlag(a1, 4036, 1)
+    Result(a1, "g_result_csc")
   elseif g_mission_information.mission_area == "tpj/silver/c" then
     g_mission_information.mission_area_text = "waveocean"
     g_mission_information.mission_progress = 14
