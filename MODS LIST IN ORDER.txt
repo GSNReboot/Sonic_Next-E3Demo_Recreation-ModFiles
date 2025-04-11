@@ -4,7 +4,7 @@ Download and put these mods in this order:
 -E3 Hint Ring Shader - by GSNReboot (Included in the repository)
 -E3 Textboxes - by GSNReboot (Included in the repository)
 -E3 HUD - by Nonami, Hyper, and Chara (https://gamebanana.com/mods/34311)
--E3 Crisis City - by therealbluebirdieee & GSNReboot
+-E3 Crisis City - by therealbluebirdieee & GSNReboot (Included in the repository)
 -E3 Kingdom Valley - by GSNReboot (https://github.com/GSNReboot/SONIC-06-E3-Kingdom-Valley/releases)
 -E3 Result Music - by Bluwolf (https://gamebanana.com/sounds/45223)
 -E3 Sonic Tweaks - by GSNReboot (Included in the repository)
