@@ -92,9 +92,9 @@
 	<message index="89" name="hint_e3kdv_a_homingtut" placeholder="picture(button_a),picture(button_x)">Press $ button again\nwhile Sonic is in mid-air\nfor homing attack.\fUse the analog stick\nto choose the direction\nyou want to do a homing attack.\fTry directing the analog stick at\nthe rope, and press $ button again\nwhile Sonic is in mid-air!</message>
 	<message index="90" name="hint_e3kdv_a_eagle">Jump to grab onto the eagle.</message>
 	<message index="91" name="hint_e3kdv_c_jump" placeholder="picture(button_a)">Use $ to jump.</message>
-	<message index="92" name="hint_e3csc_f_tut" placeholder="picture(button_rt),picture(button_x)">Use the $ Bumper for psychokinesis\nand press again to unlock it.\nUse $ to throw the objects you grabbed.</message>
+	<message index="92" name="hint_e3csc_f_tut" placeholder="picture(button_rb),picture(button_x)">Use the $ Bumper for psychokinesis\nand press again to unlock it.\nUse $ to throw the objects you grabbed.</message>
 	<message index="93" name="hint_e3csc_f_psi">Use psychic power at the green lit spots.</message>
 	<message index="94" name="hint_e3csc_f_levitate" placeholder="picture(button_a)">Hold $ while in the air\nto use the levitation ability.</message>
 	<message index="95" name="hint_e3csc_f_destroy">That road may be able to destroy.</message>
-	<message index="96" name="hint_e3csc_f_bullet"placeholder="picture(button_rt)">You can grab the bullet\nwith the psychokinesis power.\nUse $ bumper.</message>
+	<message index="96" name="hint_e3csc_f_bullet"placeholder="picture(button_rb)">You can grab the bullet\nwith the psychokinesis power.\nUse $ bumper.</message>
 </mst06>
