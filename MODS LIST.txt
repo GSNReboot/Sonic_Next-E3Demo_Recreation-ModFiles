@@ -11,3 +11,4 @@ Download these mods after replacing the mod.ini file:
 -Accurate E3 Title Screen - by GSNReboot (https://gamebanana.com/wips/82941)
 -Unlocked Framerate - by GSNReboot (https://gamebanana.com/mods/587499)
 -E3 1UP - by GSNReboot (Included in the repository)
+-E3 kdv Section C Music Fix - by therealluebirdieee (Included in the repository)
