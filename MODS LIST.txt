@@ -1,4 +1,4 @@
-Download and put these mods in this order:
+Heres the list of mods (download those with a link):
 -E3 Demo Trailer - by GSNReboot (https://gamebanana.com/mods/502916)
 -E3 Fonts - by GSNReboot (https://gamebanana.com/mods/586918)
 -E3 Hint Ring Shader - by GSNReboot (Included in the repository)
